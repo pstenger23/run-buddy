@@ -13,3 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Peter Stenger
 
+### ©️2019 Run Buddy, Inc
